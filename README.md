@@ -12,7 +12,7 @@ This repository contains files for my blog post about how the use of the NBA 3-p
 
 ## Credits
 * All data scraped from basketball-reference.com
-* [Link to repository of script used](https://github.com/SpecCRA/nba_data_scrapers)
+* [Link to repository of web scraping script used](https://github.com/SpecCRA/nba_data_scrapers)
 
 ## Technology used
 * [Tableau Desktop](https://www.tableau.com/)
